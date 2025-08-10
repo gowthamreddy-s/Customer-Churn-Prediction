@@ -52,10 +52,11 @@ The model allows the telecom company to identify customers at high risk of churn
 - Balancing business value with statistical metrics (e.g., recall vs. accuracy)
 
 ## How to Run
+
 1. Clone this repository  
 2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-     
+```bash
+pip install -r requirements.txt
+```
 ## Author
 Gowtham Reddy S
